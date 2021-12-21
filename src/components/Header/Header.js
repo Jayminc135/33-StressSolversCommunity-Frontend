@@ -196,7 +196,7 @@ export default function Header() {
 
   const Name = (
     <Typography variant="h6" component="h1" className={logo}>
-      Programming Club
+      Stress Solvers Community
     </Typography>
   );
 

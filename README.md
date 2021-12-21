@@ -1,11 +1,7 @@
 
-# Programming Club Web App - Frontend
+# Stress solvers Community Web App - Frontend
 
-Programming Club website for managing all the activities performed in the club.
-The functionalities like asking questions, posting reviews, forums, examples, and schedule need
-to be maintained in the data, and so on. Every week challenging questions need to be posted by
-crawling from competitive programming portals. The well known algorithms need to be
-illustrated along with their implementation in C or Java.
+Stress solvers Community is a website, where a person who is seeking mental health related guidance can interact with psychologists and other patients to deal with their mental health related problems or even can gain knowledge about mental health.
 
 
 ## For Development
@@ -25,4 +21,4 @@ illustrated along with their implementation in C or Java.
 
 ### Server Repo 
 
-- [BackEnd](https://github.com/Mann23/27-Programming-Club-BackEnd)
+- [BackEnd](https://github.com/Jayminc135/33-StressSolversCommunity-Backend)

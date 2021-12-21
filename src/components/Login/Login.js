@@ -25,7 +25,7 @@ const Login = () => {
 
 	return (
     <div className='Login'>
-      <h1 className = 'Login__Lable'>Programming : Programming club</h1>
+      <h1 className = 'Login__Lable'>Stress Solvers Community</h1>
 
     <GoogleLogin 
     className = 'Login__Google'
