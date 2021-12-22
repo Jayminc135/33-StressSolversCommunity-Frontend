@@ -10,7 +10,7 @@ export default [
      name: 'Cultural Event For NAAC OAT',
    },
    {
-     name: 'MSTC LAB 004, 005',
+     name: 'Meditation session',
      startDate: new Date(2021, 10, 14, 21, 0, 0),
      endDate: new Date(2021, 10, 14, 23, 55, 0),
    },
@@ -46,13 +46,13 @@ export default [
    },
  
    {
-     name: 'GDG Lab',
+     name: 'Yoga centre',
      startDate: new Date(2021, 10, 8, 18, 0, 0),
      endDate: new Date(2021, 10, 8, 21, 0, 0),
    },
  
    {
-     name: 'Programming Club Lab',
+     name: 'Yoga',
      startDate: new Date(2021, 10, 7, 21, 0, 0),
      endDate: new Date(2021, 10, 7, 23, 55, 0),
    },
@@ -67,7 +67,7 @@ export default [
      endDate: new Date(2021, 10, 5, 23, 55, 0),
    },
    {
-     name: 'Debate: CEP 103, 106, 108',
+     name: 'Stress Management Session 3',
      startDate: new Date(2021, 10, 1, 17, 30, 0),
      endDate: new Date(2021, 10, 1, 21, 0, 0),
    },
@@ -82,7 +82,7 @@ export default [
      endDate: new Date(2021, 9, 31, 20, 0, 0),
    },
    {
-     name: 'EHC Manual Robotics workshop',
+     name: 'Stress Management Session 1',
      startDate: new Date(2021, 9, 31, 8, 30, 0),
      endDate: new Date(2021, 9, 31, 17, 55, 0),
    },
@@ -117,7 +117,7 @@ export default [
      endDate: new Date(2021, 9, 25, 22, 30, 0),
    },
    {
-     name: 'Debate: CEP 103, 105, 106, 108',
+     name: 'Stress Management Session 2',
      startDate: new Date(2021, 9, 24, 17, 0, 0),
      endDate: new Date(2021, 9, 24, 21, 0, 0),
    },
